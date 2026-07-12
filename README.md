@@ -81,6 +81,7 @@ The Power BI dashboard includes:
 * Interactive Filters
 * Business Insights
 * Visual Charts and Graphs
+* Screenshot - https://github.com/sakshamsaini-21/customer_behavior_analysis/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 ---
 
